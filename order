@@ -1,0 +1,4 @@
+# 重启supervisor
+sudo systemctl restart supervisor
+# 查看supervisor运行状态
+sudo supervisorctl status
